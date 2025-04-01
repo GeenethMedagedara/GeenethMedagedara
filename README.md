@@ -15,7 +15,6 @@ I started my journey as a backend engineer and has evolved to encompass both Mac
 
 ### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![NewPython](https://www.google.com/url?sa=i&url=https%3A%2F%2Fniltechedu.com%2Fblog%2Fshop%2Fcourses%2Fcorporate-python%2F&psig=AOvVaw2A_xNhxGoXY1wMxSNd7lWe&ust=1743572975690000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiouNKRtowDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fniltechedu.com%2Fblog%2Fshop%2Fcourses%2Fcorporate-python%2F&psig=AOvVaw2A_xNhxGoXY1wMxSNd7lWe&ust=1743572975690000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiouNKRtowDFQAAAAAdAAAAABAE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
