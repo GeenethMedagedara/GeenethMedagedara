@@ -1,8 +1,7 @@
 # Hi there 👋 I am Geeneth
 
-**Aspiring AI Engineer | MLOps Enthusiast | Backend Developer**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/geenethmedagedara/) | ✉️ geenethmedagedara@gmail.com 
+✉️ geenethmedagedara@gmail.com 
 
 ---
 
