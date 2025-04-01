@@ -1,4 +1,4 @@
-# 💻 Geeneth Medagedara
+# Hi there 👋 I am Geeneth
 
 **Aspiring AI Engineer | MLOps Enthusiast | Backend Developer**
 
