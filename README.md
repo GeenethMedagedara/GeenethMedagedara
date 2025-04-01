@@ -43,5 +43,4 @@ I started my journey as a backend engineer and has evolved to encompass both Mac
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeenethMedagedara&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeenethMedagedara&layout=compact&theme=radical)
