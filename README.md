@@ -2,14 +2,12 @@
 
 **Aspiring AI Engineer | MLOps Enthusiast | Backend Developer**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/geenethmedagedara/) | 🌐 [GitHub](https://github.com/GeenethMedagedara/) | ✉️ geenethmedagedara@gmail.com | 📱 +94 752088098
+🔗 [LinkedIn](https://www.linkedin.com/in/geenethmedagedara/) | ✉️ geenethmedagedara@gmail.com 
 
 ---
 
 ## 🚀 About Me
-I am an ambitious and dedicated BSc (Hons) Computing student at Coventry University/NIBM with a passion for Machine Learning, MLOps, and Backend Development. My journey started as a backend engineer and has evolved to encompass both Machine Learning and DevOps, enabling me to develop scalable, automated solutions. I am driven by innovation and the challenge of leveraging cutting-edge technologies to solve real-world problems.
-
-I am actively seeking an AI Engineer or MLOps internship to gain hands-on experience and further expand my technical expertise.
+I started my journey as a backend engineer and has evolved to encompass both Machine Learning and DevOps, enabling me to develop scalable, automated solutions. I am driven by innovation and the challenge of leveraging cutting-edge technologies to solve real-world problems.
 
 ---
 
@@ -43,18 +41,7 @@ I am actively seeking an AI Engineer or MLOps internship to gain hands-on experi
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## 🎓 Education
-**National Institute of Business Management**  
-- Diploma in Software Engineering  
-- Higher National Diploma in Software Engineering  
-- BSc (Hons) Computing (Ongoing) - GPA: 3.93/4.0
-
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeenethMedagedara&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeenethMedagedara&layout=compact&theme=radical)
-
-Feel free to connect with me to discuss new opportunities or collaborations! 💬
